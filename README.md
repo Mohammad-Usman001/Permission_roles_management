@@ -2,7 +2,7 @@
 
 A role and permission-based access control system built using Laravel and the Spatie Permission package. This project provides a secure admin panel where access is controlled based on user roles and permissions. It includes modules for managing users, roles, permissions, and articles.
 
-## 🚀 Features
+##  Features
 
 - Role and permission management using [Spatie Laravel-Permission](https://github.com/spatie/laravel-permission)
 - Superadmin with full access to all resources and actions
@@ -12,7 +12,7 @@ A role and permission-based access control system built using Laravel and the Sp
 - Roles can be assigned and permissions managed via UI
 - You can Create New Roles and Permissions according to Your Roles Provided By SuperAdmin and Manager
 
-## 🧑‍💼 User Roles
+##  User Roles
 
 - **Superadmin**
   - Has access to all modules and actions
@@ -27,7 +27,7 @@ A role and permission-based access control system built using Laravel and the Sp
   - Can only create, edit, and view articles
   - Cannot manage users, roles, or permissions
 
-## 📦 Technologies Used
+##  Technologies Used
 
 - Laravel 12
 - Spatie Laravel Permission
@@ -36,7 +36,7 @@ A role and permission-based access control system built using Laravel and the Sp
 - MySQL
 - Blade Templating
 
-## 📁 Modules
+##  Modules
 
 - **Authentication** – Laravel's built-in authentication system
 - **Users** – Manage users and assign roles
